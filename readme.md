@@ -4,7 +4,7 @@ A central workspace for GCP, ADK Agentic AI projects.
 
 ## Project Directory
 
-* **[Customer Support Agent: ADK](./customer_support_agent)**: Genetic cusotmer support agent skeleton.
+* **[Customer Support Agent: ADK](./customer_support_agent)**: Generic cusotmer support agent skeleton.
 * **[Model Comparison: ADK](./model_comparison)**: Demonstrates factual vs creative agents.
 * **[Multi Tool Agent: ADK](./multi_tool_agent)**: Weather Agent that uses multiple skills.
 * **[My First Agent: ADK](./my_first_agent)**: Simple agent.
