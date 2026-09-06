@@ -4,8 +4,13 @@ A central workspace for GCP, ADK Agentic AI projects.
 
 ## Project Directory
 
-* **[Customer Support Agent: ADK](./customer_support_agent)**: Generic cusotmer support agent using Google ADK.
-* **[P2: GCP Architecture Workflows](./P2)**: Placeholder for upcoming Cloud Run and Vertex AI integrations.
+* **[Customer Support Agent: ADK](./customer_support_agent)**: Genetic cusotmer support agent skeleton.
+* **[Model Comparison: ADK](./model_comparison)**: Demonstrates factual vs creative agents.
+* **[Multi Tool Agent: ADK](./multi_tool_agent)**: Weather Agent that uses multiple skills.
+* **[My First Agent: ADK](./my_first_agent)**: Simple agent.
+* **[My Problem Solver: ADK](./problem_solver)**: Solves complex reasoning probems.
+* **[My Product Extractor: ADK](./product_extractor)**: Uses Pydantic for structured data extraction.
+
 
 ## Prerequisites
 
