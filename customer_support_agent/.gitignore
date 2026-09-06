@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Secrets & Local Configurations
+.env
+*.json
+secrets/
+key.json
+
+# IDE Settings
+.vscode/
+.idea/
